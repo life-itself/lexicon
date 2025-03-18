@@ -1,4 +1,4 @@
-# Lexicon for Second Renaissance and Limimal Web
+# Second Renaissance Limimal Lexicon
 
 The Lexicon contains information on key terms and concepts related to Second Renaissance, Liminal Web, Metamodern, Metacrisis, Integral, GameB, etc.
 
