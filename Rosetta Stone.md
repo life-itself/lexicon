@@ -1,0 +1,2 @@
+- Cultural Paradigm = Worldview Family = Effective Value Meme
+- 
