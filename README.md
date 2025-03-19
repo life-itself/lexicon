@@ -4,6 +4,7 @@ The Lexicon contains information on key terms and concepts related to Second Ren
 
 - [[Liminal Web]]
 - [[Metamodern]]
+- [[Multipolar trap]]
 - [[Second Renaissance]]
 
 ### In progress
