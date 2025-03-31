@@ -2,6 +2,13 @@
   "showEditLink": true,
   "showSidebar": true,
   "nav": {
-    "title": "Second Renaissance Liminal Lexicon"
+    "title": "Second Renaissance Liminal Lexicon",
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub",
+        "href": "https://github.com/life-itself/lexicon"
+      }
+    ]
   }
 }
