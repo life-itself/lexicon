@@ -35,12 +35,12 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 
 | Concept                   | Where                                                               |
 | ------------------------- | ------------------------------------------------------------------- |
-| Awakening Society         | https://lifeitself.org/awakening-society                            |
+| Awakening Society         | [Article](https://lifeitself.org/awakening-society)                            |
 | Distributed Governance    | [Wiki](https://wiki.secondrenaissance.net/wiki/Distributed_governance)        |
 | Ecological Civilisation   | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#ecological-civilisation) |
-| Emergentsia               | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Emergentsia               | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#emergentsia) |
 | Existential Risk          | [Wiki](https://wiki.secondrenaissance.net/wiki/Existential_risk)        |
-| GameB                     | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| GameB                     | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#game-b) |
 | Global Catastrophic Risk  | [Wiki](https://wiki.secondrenaissance.net/wiki/Global_catastrophic_risk)        |
 | Holomovement              | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Integral                  | https://secondrenaissance.net/publications/overview-ecosystem-names |
