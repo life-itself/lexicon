@@ -42,25 +42,23 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 | Existential Risk          | [Wiki](https://wiki.secondrenaissance.net/wiki/Existential_risk)        |
 | GameB                     | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#gameb) |
 | Global Catastrophic Risk  | [Wiki](https://wiki.secondrenaissance.net/wiki/Global_catastrophic_risk)        |
-| Holomovement              | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Integral                  | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Metacrisis)        |
-| Metacrisis                | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Metamodern                | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Holomovement              | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#holomovement) |
+| Integral                  | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#integral) |
+| Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Metacrisis) [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#metacrisis |
+| Metamodern                | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#metamodern |
 | Metamodernism (Political) | [Wiki](https://wiki.secondrenaissance.net/wiki/Metamodernism_(political))        |
-| Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Polycrisis)        |
-| Polycrisis                | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Polycrisis) [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#polycrisis |
 | Post-rationalism          | [Wiki](https://wiki.secondrenaissance.net/wiki/Post-rationalism)        |
 | Rationalist (Community)   | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
-| Regenerative              | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Second Renaissance        | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Regenerative              | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#regenerative) |
+| Second Renaissance        | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#second-renaissance) |
 | Sensemaking               | [Wiki](https://wiki.secondrenaissance.net/wiki/Sensemaking)        |
-| Sensemaking Web           | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Sensemaking Web           | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#sensemaking-web) |
 | Sociocracy                | [Wiki](https://wiki.secondrenaissance.net/wiki/Sociocracy)        |
 | Sovereignty               | [Wiki](https://wiki.secondrenaissance.net/wiki/Sovereignty)        |
-| Teal                      | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| The Great Turning         | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| The Liminal Web           | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Teal                      | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#teal) |
+| The Great Turning         | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#the-great-turning) |
+| The Liminal Web           | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#the-liminal-web) |
 | Wellbeing                 | [Wiki](https://wiki.secondrenaissance.net/wiki/Wellbeing)        |
 | Zen                       | [Wiki](https://wiki.secondrenaissance.net/wiki/Zen)        |
 
