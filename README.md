@@ -44,10 +44,10 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 | Global Catastrophic Risk  | [Wiki](https://wiki.secondrenaissance.net/wiki/Global_catastrophic_risk)        |
 | Holomovement              | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#holomovement) |
 | Integral                  | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#integral) |
-| Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Metacrisis) [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#metacrisis |
-| Metamodern                | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#metamodern |
+| Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Metacrisis) [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#metacrisis) |
+| Metamodern                | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#metamodern) |
 | Metamodernism (Political) | [Wiki](https://wiki.secondrenaissance.net/wiki/Metamodernism_(political))        |
-| Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Polycrisis) [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#polycrisis |
+| Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Polycrisis) [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#polycrisis) |
 | Post-rationalism          | [Wiki](https://wiki.secondrenaissance.net/wiki/Post-rationalism)        |
 | Rationalist (Community)   | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
 | Regenerative              | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#regenerative) |
