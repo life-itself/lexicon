@@ -37,7 +37,7 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 | ------------------------- | ------------------------------------------------------------------- |
 | Awakening Society         | https://lifeitself.org/awakening-society                            |
 | Distributed Governance    | [Wiki](https://wiki.secondrenaissance.net/wiki/Distributed_governance)        |
-| Ecological Civilisation   | https://secondrenaissance.net/publications/overview-ecosystem-names |
+| Ecological Civilisation   | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#ecological-civilisation) |
 | Emergentsia               | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Existential Risk          | [Wiki](https://wiki.secondrenaissance.net/wiki/Existential_risk)        |
 | GameB                     | https://secondrenaissance.net/publications/overview-ecosystem-names |
