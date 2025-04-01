@@ -40,7 +40,7 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 | Ecological Civilisation   | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#ecological-civilisation) |
 | Emergentsia               | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#emergentsia) |
 | Existential Risk          | [Wiki](https://wiki.secondrenaissance.net/wiki/Existential_risk)        |
-| GameB                     | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#game-b) |
+| GameB                     | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#gameb) |
 | Global Catastrophic Risk  | [Wiki](https://wiki.secondrenaissance.net/wiki/Global_catastrophic_risk)        |
 | Holomovement              | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Integral                  | https://secondrenaissance.net/publications/overview-ecosystem-names |
