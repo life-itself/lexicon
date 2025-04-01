@@ -36,32 +36,32 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 | Concept                   | Where                                                               |
 | ------------------------- | ------------------------------------------------------------------- |
 | Awakening Society         | https://lifeitself.org/awakening-society                            |
-| Distributed Governance    | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Distributed Governance    | [Wiki](https://wiki.secondrenaissance.net/wiki/Distributed_governance)        |
 | Ecological Civilisation   | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Emergentsia               | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Existential Risk          | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Existential Risk          | [Wiki](https://wiki.secondrenaissance.net/wiki/Existential_risk)        |
 | GameB                     | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Global Catastrophic Risk  | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Global Catastrophic Risk  | [Wiki](https://wiki.secondrenaissance.net/wiki/Global_catastrophic_risk)        |
 | Holomovement              | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Integral                  | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Metacrisis)        |
 | Metacrisis                | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Metamodern                | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Metamodernism (Political) | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
-| Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Polycrisis)        |
 | Polycrisis                | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Post-rationalism          | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Post-rationalism          | [Wiki](https://wiki.secondrenaissance.net/wiki/Post-rationalism)        |
 | Rationalist (Community)   | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
 | Regenerative              | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Second Renaissance        | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Sensemaking               | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Sensemaking               | [Wiki](https://wiki.secondrenaissance.net/wiki/Sensemaking)        |
 | Sensemaking Web           | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Sociocracy                | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
-| Sovereignty               | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Sociocracy                | [Wiki](https://wiki.secondrenaissance.net/wiki/Sociocracy)        |
+| Sovereignty               | [Wiki](https://wiki.secondrenaissance.net/wiki/Sovereignty)        |
 | Teal                      | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | The Great Turning         | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | The Liminal Web           | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Wellbeing                 | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
-| Zen                       | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Wellbeing                 | [Wiki](https://wiki.secondrenaissance.net/wiki/Wellbeing)        |
+| Zen                       | [Wiki](https://wiki.secondrenaissance.net/wiki/Zen)        |
 
 There is also: https://notes.lifeitself.org/ but this mostly has very basic content.
