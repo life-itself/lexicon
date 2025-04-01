@@ -47,7 +47,7 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 | Metacrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Metacrisis)        |
 | Metacrisis                | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Metamodern                | https://secondrenaissance.net/publications/overview-ecosystem-names |
-| Metamodernism (Political) | [Wiki](https://wiki.secondrenaissance.net/wiki/Concept_list)        |
+| Metamodernism (Political) | [Wiki](https://wiki.secondrenaissance.net/wiki/Metamodernism_(political))        |
 | Polycrisis                | [Wiki](https://wiki.secondrenaissance.net/wiki/Polycrisis)        |
 | Polycrisis                | https://secondrenaissance.net/publications/overview-ecosystem-names |
 | Post-rationalism          | [Wiki](https://wiki.secondrenaissance.net/wiki/Post-rationalism)        |
