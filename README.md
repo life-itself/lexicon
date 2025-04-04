@@ -35,7 +35,7 @@ Pre-existing glossary/lexicon content here (Wiki entries are those I had previou
 
 | Concept                   | Meaning | Where                                                               |
 | ------------------------- | -------- | ------------------------------------------------------------------- |
-| Awakening Society         |  | [Article](https://lifeitself.org/awakening-society)                            |
+| Awakening Society         | society oriented to personal and collective development | [Article](https://lifeitself.org/awakening-society)                            |
 | Distributed Governance    |  | [Wiki](https://wiki.secondrenaissance.net/wiki/Distributed_governance)        |
 | Ecological Civilisation   |  | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#ecological-civilisation) |
 | Emergentsia               |  | [Overview](https://secondrenaissance.net/publications/overview-ecosystem-names#emergentsia) |
