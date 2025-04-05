@@ -8,6 +8,4 @@ This is analogous with the first Renaissance in Europe where there was a mini-da
 
 In this case, seeds may go in the ground and hibernate for a while – “last through winter until spring” – rather than renaissance happening immediately.
 
-![](https://forum.secondrenaissance.net/uploads/db6903/optimized/1X/2aa38060619a410ae6e3e43f11a8af1183f0255a_2_1380x944.jpeg)
-
 More can be imported from https://forum.secondrenaissance.net/t/dark-renaissance/149
