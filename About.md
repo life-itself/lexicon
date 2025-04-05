@@ -1,12 +1,12 @@
-Creating a basic lexicon or dictionary of second renaissance related terms.
+Creating a lexicon or dictionary of [[Second Renaissance]] related terms.
 
 ## Style
 
-This is a page about the "style" of the Lexicon. In general, we want to be as accessible as possible whilst also being rigorous.
+This is a page about the "style" of the Lexicon. In general, we want to be accessible *and* rigorous.
 
 ### US vs UK English
 
-Use US english by default
+Use US English.
 
 ### Capitalization of titles
 
@@ -18,8 +18,8 @@ Generally follow wikipedia style. First word is capitalized. Following words are
 - Have examples of usage ... e.g. quotes from other sources especially use in context (vs providing definitions)
 - References especially other definitions or similar
 
-Use of images?
+TODO: Use of images?
 
 ## FAQs
 
-- Do we provide alternatives if there is no consensus yet on the meaning
+- Do we provide alternatives if there is no consensus yet on the meaning of a term.
