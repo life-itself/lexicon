@@ -25,6 +25,7 @@ These are pages that aren't core terms but have useful related content.
 - **Draft content**
   - Either: just create e.g. a google doc or similar with your text ... and share a link on the [forum](https://forum.secondrenaissance.net/t/suggestions-for-terms-for-the-lexicon/215)
   - Or: edit [site directly on github](https://github.com/life-itself/lexicon) if you are comfortable with that 🙂
+  - Or: create a wiki page with the [Category: Concepts](https://wiki.secondrenaissance.net/wiki/Category:Concepts)
 - **Improve content**: just click the "edit this page" link at the bottom of any page and follow the instructions
 
 ### Content to incorporate
