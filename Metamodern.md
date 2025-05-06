@@ -1,4 +1,10 @@
+---
+image: /assets/metamodern.jpg
+---
+
 Broadly speaking, 'metamodern' is a term used to articulate developments in contemporary culture and society which are said to represent a move beyond modernism and postmodernism. It was originally coined in 1975 by Mas’ud Zavarzade, to describe an emerging cultural trend in American literature. **[1](https://nesslabs.com/metamodernism)** More recently, the related term 'metamodernism' has come into popular usage – although it has been defined and tends to be used in a number of different ways, which can make it rather confusing. Depending on the context, metamodernism is a philosophy; a worldview; a cultural sensibility; and a political, scientific, and social movement.
+
+![image](/assets/metamodern.jpg)
 
 As a cultural and artistic sensibility, metamodernism is characterised by an oscillation between typically modernist attitudes and postmodernist ones – defined by its “ironic sincerity,” “pragmatic idealism,” and “informed naiveté”. The use of the prefix 'meta' derives from Plato’s _metaxis_, describing an "in-betweeness", an oscillation between diametrically opposed poles of experience. This usage was first proposed by Dutch cultural theorists Timotheus Vermeulen and Robin van den Akker in their 2010 essay, “Notes on Metamodernism”.**[2](https://www.tandfonline.com/doi/full/10.3402/jac.v2i0.5677)**
 
