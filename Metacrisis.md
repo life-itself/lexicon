@@ -11,7 +11,7 @@ On this view, the underlying structure of views and values on which humanity has
 
 ## Relationship to Polycrisis
 
-See https://forum.secondrenaissance.net/t/polycrisis-and-metacrisis-3-layers-of-causation/299
+See https://news.lifeitself.org/p/from-polycrisis-to-metacrisis-a-short
 
 ![image](https://github.com/user-attachments/assets/92c5fafc-adf9-4e98-972b-6b3ffc857376)
 
@@ -23,8 +23,13 @@ See https://forum.secondrenaissance.net/t/polycrisis-and-metacrisis-3-layers-of-
    * Wisdom gap (mismatch between technological capacity and moral/epistemic maturity)
    * Degradation of sense-making and collective intelligence
    * Value misalignment and multi-polar traps (e.g., race-to-the-bottom dynamics)
-
 3. **Root Layer – Foundational Ideologies (Cultural Paradigms) & Deep Human Tendencies (Metacrisis)**
    * Deep ideological features of modernity (e.g., anthropocentrism, individualism, mechanistic rationality)
    * Amplification of latent human tendencies (e.g., greed, fear, control)
    * These do not *cause* the polycrisis directly, but predispose systems toward fragmentation, extractivism, etc.
+
+## External links
+
+- [Metacrisis Resources page by Sloww](https://metacrisis.org)
+- [Tasting the Pickle: Ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/)
+- [Daniel Schmachtenberger | An introduction to the Metacrisis | Stockholm Impact/Week 2023](https://www.youtube.com/watch?v=4kBoLVvoqVY)
